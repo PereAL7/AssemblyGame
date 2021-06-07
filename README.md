@@ -13,4 +13,4 @@ their moving and fighting mechanics were relativelly easy to translate and adapt
 Right now neither me nor my partner have decided to continue further development despite the knowledge of som possible upgrades
 
 # Thanks
-I want to end this README thanking our teacher. He gave us (the students) a really good template to start this project and inspired us by showing examples of what can be done with enough wit a determination.
+I want to end this README thanking our teacher Antoni Burguera. He gave us (the students) a really good template to start this project and inspired us by showing examples of what can be done with enough wit a determination.
