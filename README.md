@@ -9,6 +9,9 @@ This project was fully developed using Easy68K, a program which emulates a Motor
 Both The Legend of Zelda and The Binding of Isaac were clear inspirations when the game development started as
 their moving and fighting mechanics were relativelly easy to translate and adapt to an efficient "character controller".
 
+# Execution
+In order to start this game you must use the Easy68K emulator and execute the MAIN.X68 file.
+
 # Future
 Right now neither me nor my partner have decided to continue further development despite the knowledge of som possible upgrades
 
